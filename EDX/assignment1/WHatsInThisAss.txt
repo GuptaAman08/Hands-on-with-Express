@@ -1,0 +1,8 @@
+Here we'll build a RESTful API using the Express framework.
+
+The REST API server will have the following four endpoints:
+
+1 -> GET /accounts to retrieve a list of accounts
+2 -> POST /accounts to create a new account
+3 -> PUT /accounts to update an account
+4 -> DELETE /accounts to remove an account
